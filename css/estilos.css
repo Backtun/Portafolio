@@ -5,7 +5,18 @@ body{
   margin: 0px;
 }
 
-header{
+nav{
+  margin: 0px 70px;
+  height: 70px;
+  position: fixed;
+  padding-top: 5px;
+}
+
+img.img-menu{
+  width: 70px;
+}
+
+section.principal{
   background-image: url("../img/paisaje1.jpg");
   background-position: center center;
   background-repeat:no-repeat;
